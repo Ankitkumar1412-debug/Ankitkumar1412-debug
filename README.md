@@ -75,24 +75,6 @@
 
 ---
 
-## 🎉 Random Dev Meme
-<p align="center">
-  <img src="https://memer-new.vercel.app/" height="350" alt="Random meme" />
-</p>
-
----
-
-## 🌟 Visitor Counter
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ankitkumar1412-debug&label=Visitors&color=12&icon=5&pretty=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Ankitkumar1412-debug/Ankitkumar1412-debug/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 <h3 align="center">🔥 “Code. Design. Repeat.” 🔥</h3>
