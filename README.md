@@ -5,7 +5,7 @@
 <h3 align="center">💻 Passionate Frontend Developer | 🎨 UI/UX Enthusiast | 🧠 Learner of All Things Tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+JS+Enthusiast;UI%2FUX+Designer+%7C+Canva+%26+Figma+Lover;Always+Learning+New+Tech+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+JS+Enthusiast;UI%2FUX+Designer+%7C+Devops+Enginner+%26+Figma+Lover;Always+Learning+New+Tech+🚀" alt="Typing animation" />
 </p>
 
 ---
